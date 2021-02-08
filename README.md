@@ -36,3 +36,9 @@ This version contain:
 ### mysql-backup.sh
 
 This helps you to execute dumps (backups) of your mysql database and upload then to AWS S3. You can schedule CRON to run or manually.
+
+##### Cron Example
+
+Every day at 23:55
+
+55 23 * * * bash /opt/mysqlbackup.sh
