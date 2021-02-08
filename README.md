@@ -1,7 +1,7 @@
 # shell-jobs
 Shell scripts for useful jobs at developer life
 
-# Turn file into executable
+## Turn file into executable
 
 `chmod +x file.sh`
 
@@ -9,7 +9,7 @@ Then you can run it without bash prefix:
 
 `./file.sh`
 
-# Files
+## Files
 
 ### nginx-block
 
