@@ -11,7 +11,7 @@ Then you can run it without bash prefix:
 
 ## Files
 
-### nginx-block
+### nginx-block.sh
 
 - Create local domain at /etc/hosts
 - Create /etc/nginx/sites-available/domain
