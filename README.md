@@ -37,6 +37,11 @@ This version contain:
 
 This helps you to execute dumps (backups) of your mysql database and upload then to AWS S3. You can schedule CRON to run or manually.
 
+##### Requirements
+
+- Install s3cmd tool and configure it
+- Grant PROCESS privilege to the user whose will do backups
+
 ##### Cron Example
 
 Every day at 23:55
